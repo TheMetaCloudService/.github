@@ -1,3 +1,3 @@
-<h3>TheMetaCloudService</h3>
+<h3 alige="center">TheMetaCloudService</h3>
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=TheMetaCloudService&label=Profile%20views&color=e6a40b&style=flat" /> </p>
 
