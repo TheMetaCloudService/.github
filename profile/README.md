@@ -8,6 +8,7 @@
   </p>
   <br>
   <br>
+  Welcome to Metacloud, the ultimate Minecraft cloud system! We pride ourselves on being versatile and supporting a wide range of essential functions through our modules. Our dedication to development spans across various directions, ensuring a top-notch experience for all Minecraft network enthusiasts!
   <br>
   <br>
 </p>
