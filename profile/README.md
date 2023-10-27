@@ -11,7 +11,8 @@
   <br>
   <br>
 </p>
-
+  <h1>Social media</h1>
+  <hr>
   <a href="https://discord.com/invite/4kKEcaP9WC/">
          <img alt="MetaCloud Discord" src="https://discord.com/api/guilds/920757901822402572/widget.png?style=banner2">
 </a>
