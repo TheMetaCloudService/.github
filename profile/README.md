@@ -12,7 +12,9 @@
   <br>
 </p>
   <hr>
+   <p align="center">
   <a href="https://discord.com/invite/4kKEcaP9WC/">
          <img alt="MetaCloud Discord" src="https://discord.com/api/guilds/920757901822402572/widget.png?style=banner2">
+    </p>
 </a>
 
