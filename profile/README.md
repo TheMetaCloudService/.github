@@ -6,9 +6,13 @@
   <p align="center">
    <b>We are TheMetaCloudService, an open source Minecraft cloud system</b>
   </p>
+  <br>
+  <br>
+  <br>
+  <br>
+</p>
 
   <a href="https://discord.com/invite/4kKEcaP9WC/">
          <img alt="MetaCloud Discord" src="https://discord.com/api/guilds/920757901822402572/widget.png?style=banner2">
 </a>
-</p>
 
